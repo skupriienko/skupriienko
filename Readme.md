@@ -1,6 +1,6 @@
 ### Hi there! I am Serhii Kupriienko
 
-I’m a software engineer and blogger doing web development since 2005.
+I’m a blogger doing web development since 2005.
 Currently focused on my Python education.
 Occasionally open for consulting and freelance opportunities. 
 
