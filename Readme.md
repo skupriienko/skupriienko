@@ -45,5 +45,8 @@ Git, GitHub, Jira, etc.
 I’m occasionally open for consulting and freelance opportunities.<br/>
 Drop me a PM, if you think I can be useful.
 
+[<img align="left" alt="Kuprienko | Email" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][paqmind]
+[<img align="left" alt="Kupriienko | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 [kuprienko]: https://kuprienko.info
 [linkedin]: https://linkedin.com/in/serhii-kupriienko
