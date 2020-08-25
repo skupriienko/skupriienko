@@ -5,7 +5,7 @@ Currently focused on my Python education.
 
 
 My professional interests are quite broad and include software engineering, programming, data analitics, data science
- – to name just a few. .
+ – to name just a few.
 I also know about web design and development.
 
 I prefer a knowledge that will remain relevant over the years. 
@@ -56,9 +56,6 @@ Git, GitHub, Jira, etc.
 <br />
  
 ### Contacts
-
-I’m occasionally open for consulting and freelance opportunities.<br/>
-Drop me a PM, if you think I can be useful.
 
 [<img align="left" alt="Kuprienko | Email" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][kuprienko.info]
 [<img align="left" alt="Kupriienko | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
