@@ -27,7 +27,7 @@ JSON, XML;
 Git, GitHub, Jira, etc.
 
 ### My Great Project 2019
-- [vue.gov.ua](https://vue.gov.ua)
+- [vue.gov.ua](https://vue.gov.ua) - The Great Ukrainian Encyclopedia 
 
 ### 2020 goals
 
