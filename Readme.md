@@ -2,7 +2,7 @@
 
 I’m a blogger doing web development since 2005.
 Currently focused on my Python education.
-Occasionally open for consulting and freelance opportunities. 
+
 
 My professional interests are quite broad and include software engineering, programming, data analitics, data science
  – to name just a few. .
@@ -25,6 +25,10 @@ R language (RStudio);
 Databases, SQL (SQLite, MS SQL Server, SQLAlchemy, MySQL/MariaDB, PostgreSQL, MongoDB); 
 JSON, XML; 
 Git, GitHub, Jira, etc.
+
+### My Great Project 2019
+
+[vue.gov.ua]: https://kuprienko.info
 
 ### 2020 goals
 
