@@ -28,7 +28,7 @@ Git, GitHub, Jira, etc.
 
 ### My Great Project 2019
 [<img align="left" alt="vue.gov.ua | vue.gov.ua" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][vue.gov.ua]
-[vue.gov.ua](https://vue.gov.ua)
+[vue.gov.ua]: (https://vue.gov.ua)
 
 ### 2020 goals
 
