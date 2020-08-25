@@ -27,7 +27,7 @@ JSON, XML;
 Git, GitHub, Jira, etc.
 
 ### My Great Project 2019
-
+[<img align="left" alt="vue.gov.ua | vue.gov.ua" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][vue.gov.ua]
 [vue.gov.ua](https://vue.gov.ua)
 
 ### 2020 goals
@@ -57,7 +57,7 @@ Git, GitHub, Jira, etc.
  
 ### Contacts
 
-[<img align="left" alt="Kuprienko | Email" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][kuprienko.info]
+[<img align="left" alt="Kuprienko | Web" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][kuprienko.info]
 [<img align="left" alt="Kupriienko | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [kuprienko.info]: https://kuprienko.info
