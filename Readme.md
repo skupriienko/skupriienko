@@ -1,8 +1,10 @@
-### Hi there! I am Serhii Kupriienko
+<h1 align="center">Hi 👋, I'm Serhii Kupriienko</h1>
+<h3 align="center">A passionate backend Python developer from Ukraine</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=skupriienko" alt="skupriienko" /> </p>
 
 I’m a blogger doing web development since 2005.
-Currently focused on my Python education.
-
+Currently focused on my Python education, backend development with Django, Flask and Data Science (NLP).
 
 My professional interests are quite broad and include software engineering, programming, data analitics, data science
  – to name just a few.
@@ -41,10 +43,7 @@ Git, GitHub, Jira, etc.
 - 💎 - Practice Javascript language
 - 🥅 - Release a few Open Source libraries
 
-<h1 align="center">Hi 👋, I'm Serhii Kupriienko</h1>
-<h3 align="center">A passionate backend developer from Ukraine</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=skupriienko" alt="skupriienko" /> </p>
 
 - 📝 I regulary write articles on [https://kuprienko.info](https://kuprienko.info)
 
