@@ -14,19 +14,15 @@ I prefer a knowledge that will remain relevant over the years.
 
 ### Tech Stack
 
-Python, Object-Oriented Programming; 
-Data Analytics (Power BI, Jupyter Notebook); 
-Data Science (Numpy, Pandas, Dask, Machine Learning, scikit-learn, PySpark, NLP, SpaCy, Image processing, OpenCV); 
-Data Engineering (ETL, data mining, importing, ingestion, cleaning); 
-Data Scraping & Processing, Web Scraping, Regex, Selenium, Selenium WebDriver, Scrapy, BeautifulSoup, Requests); 
-Data Visualization with Matplotlib, Seaborn, Plotly; 
-Web Frameworks - Django, Flask; 
-Web Design (Wordpress, Bootstrap4);
-Front-end Development (HTML, CSS, JavaScript, PHP); 
-R language (RStudio);
-Databases, SQL (SQLite, MS SQL Server, SQLAlchemy, MySQL/MariaDB, PostgreSQL, MongoDB); 
-JSON, XML; 
-Git, GitHub, Jira, etc.
+▪ Python;  
+▪ Frameworks – Django, Flask;  
+▪ Front-end Development (HTML, CSS, JavaScript, PHP), Web Design (Wordpress, Bootstrap4);  
+▪ Web Scraping, Regex, Selenium, Scrapy, BeautifulSoup, Requests;  
+▪ SQL (SQLite, SQLAlchemy, MySQL/MariaDB, PostgreSQL, MS SQL Server), Databases (Airtable);  
+▪ Data Science (Machine Learning, scikit-learn, PySpark, NLP, SpaCy);  
+▪ Data Analytics (Numpy, Pandas, Power BI, Jupyter Notebook);  
+▪ Data Visualization with Matplotlib, Seaborn, Plotly;  
+▪ JSON, XML, Git, GitHub, Jira, etc.  
 
 ### My Great Project 2019
 - [vue.gov.ua](https://vue.gov.ua) - The Great Ukrainian Encyclopedia 
