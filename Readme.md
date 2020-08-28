@@ -46,12 +46,6 @@ Git, GitHub, Jira, etc.
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<br />
-
-<p align="center">
-<a href="https://linkedin.com/in/serhii-kupriienko" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="serhii-kupriienko" height="30" width="30" /></a>
-</p>
-
 
 ### 2020 goals
 
