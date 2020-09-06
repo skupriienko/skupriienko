@@ -27,6 +27,8 @@ I prefer a knowledge that will remain relevant over the years.
 ### My Great Project 2019
 - [vue.gov.ua](https://vue.gov.ua) - The Great Ukrainian Encyclopedia 
 
+### My Projects 2020
+- [https://github.com/skupriienko/Pyextract](Pyxtract) - Pyxtract
 
 ### Languages and Tools:
 
