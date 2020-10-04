@@ -29,6 +29,7 @@ I prefer a knowledge that will remain relevant over the years.
 
 ### My Projects 2020
 - [https://github.com/skupriienko/Pyextract](https://github.com/skupriienko/Pyextract) - Pyxtract
+- [https://github.com/skupriienko/Jobscraper](https://github.com/skupriienko/Jobscraper) - Jobscraper
 
 ### Languages and Tools:
 
