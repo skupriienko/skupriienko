@@ -28,7 +28,7 @@ I prefer a knowledge that will remain relevant over the years.
 - [vue.gov.ua](https://vue.gov.ua) - The Great Ukrainian Encyclopedia 
 
 ### My Projects 2020
-- [Pyextract](https://github.com/skupriienko/Pyextract) - Pyxtract
+- [Pyxtract](https://github.com/skupriienko/Pyxtract) - Pyxtract
 - [Jobscraper](https://github.com/skupriienko/Jobscraper) - Jobscraper
 - [Gmail-reader](https://github.com/skupriienko/Gmail-reader) - Gmail-reader
 
