@@ -23,6 +23,7 @@ I prefer a knowledge that will remain relevant over the years.
 ▪ Data Analytics (Numpy, Pandas, Power BI, Jupyter Notebook);  
 ▪ Data Visualization with Matplotlib, Seaborn, Plotly;  
 ▪ JSON, XML, Git, GitHub, Jira, etc.  
+▪ Heroku, Docker, Conda, VirtualBox, VMware, Linux.
 
 ### My Great Project 2019
 - [vue.gov.ua](https://vue.gov.ua) - The Great Ukrainian Encyclopedia 
