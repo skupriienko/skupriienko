@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Serhii Kupriienko</h1>
-<h3 align="center">A passionate backend Python developer from Ukraine</h3>
+<h3 align="center">A passionate Python developer from Ukraine</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skupriienko" alt="skupriienko" /> </p>
 
@@ -29,9 +29,15 @@ I prefer a knowledge that will remain relevant over the years.
 - [vue.gov.ua](https://vue.gov.ua) - The Great Ukrainian Encyclopedia 
 
 ### My Projects 2020
-- [Pyxtract](https://github.com/skupriienko/Pyxtract) - Pyxtract
-- [Jobscraper](https://github.com/skupriienko/Jobscraper) - Jobscraper
-- [Gmail-reader](https://github.com/skupriienko/Gmail-reader) - Gmail-reader
+- [Awesome-Python-Learning](https://github.com/skupriienko/Awesome-Python-Learning)
+- [Python-Cheatsheets](https://github.com/skupriienko/Python-Cheatsheets)
+- [Pyxtract](https://github.com/skupriienko/Pyxtract)
+- [Jobscraper](https://github.com/skupriienko/Jobscraper)
+- [Gmail-reader](https://github.com/skupriienko/Gmail-reader)
+- [PDF-and-URL-parser](https://github.com/skupriienko/PDF-and-URL-parser)
+- Ukraine-Kyiv-Weather-Scraper](https://github.com/skupriienko/Ukraine-Kyiv-Weather-Scraper)
+- [Python-Tools](https://github.com/skupriienko/Python-Tools)
+- [Ukrainian-Stopwords](https://github.com/skupriienko/Ukrainian-Stopwords)
 
 ### Languages and Tools:
 
