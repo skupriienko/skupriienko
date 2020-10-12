@@ -36,6 +36,7 @@ I prefer a knowledge that will remain relevant over the years.
 - [Gmail-reader](https://github.com/skupriienko/Gmail-reader)
 - [PDF-and-URL-parser](https://github.com/skupriienko/PDF-and-URL-parser)
 - [Ukraine-Kyiv-Weather-Scraper](https://github.com/skupriienko/Ukraine-Kyiv-Weather-Scraper)
+- [Pause-Effect](https://github.com/skupriienko/Pause-Effect)
 - [Python-Tools](https://github.com/skupriienko/Python-Tools)
 - [Ukrainian-Stopwords](https://github.com/skupriienko/Ukrainian-Stopwords)
 
