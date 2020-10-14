@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Serhii Kupriienko</h1>
-<h3 align="center">A passionate Python developer from Ukraine</h3>
+<h3 align="center">A passionate Python Developer from Ukraine</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skupriienko" alt="skupriienko" /> </p>
 
