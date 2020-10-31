@@ -39,6 +39,7 @@ I prefer a knowledge that will remain relevant over the years.
 - [Pause-Effect](https://github.com/skupriienko/Pause-Effect)
 - [Python-Tools](https://github.com/skupriienko/Python-Tools)
 - [Ukrainian-Stopwords](https://github.com/skupriienko/Ukrainian-Stopwords)
+- [Ukrainian-Sentiment-Analysis](https://github.com/skupriienko/Ukrainian-Sentiment-Analysis)
 
 ### Languages and Tools:
 
