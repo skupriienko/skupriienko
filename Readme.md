@@ -16,7 +16,7 @@ I prefer a knowledge that will remain relevant over the years.
 
 ▪ Python;  
 ▪ Frameworks – Django, Flask;  
-▪ Front-end Development (HTML, CSS, JavaScript, PHP), Web Design (Wordpress, Bootstrap4);  
+▪ Front-end Development (HTML, CSS, JavaScript), Web Design (Wordpress, Bootstrap4);  
 ▪ Web Scraping, Regex, Selenium, Scrapy, BeautifulSoup, Requests;  
 ▪ SQL (SQLite, SQLAlchemy, MySQL/MariaDB, PostgreSQL, MS SQL Server), Databases (Airtable);  
 ▪ Data Science (Machine Learning, scikit-learn, PySpark, NLP, SpaCy);  
