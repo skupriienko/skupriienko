@@ -4,26 +4,22 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skupriienko" alt="skupriienko" /> </p>
 
 I’m a blogger doing web development since 2005.
-Currently focused on my Python education, backend development with Django, Flask and Data Science (NLP).
+Mostly experienced in Back End development with Python (Django, Flask), data mining, web scraping and NLP.
 
 My professional interests are quite broad and include software engineering, programming, data analitics, data science
- – to name just a few.
-I also know about web design and development.
-
-I prefer a knowledge that will remain relevant over the years. 
+ – to name just a few. I prefer a knowledge that will remain relevant over the years. 
+ 
+Fully implemented and launched an educatioanal project with 100000+ month audience.
 
 ### Tech Stack
 
-▪ Python;  
-▪ Frameworks – Django, Flask;  
-▪ Front-end Development (HTML, CSS, JavaScript), Web Design (Wordpress, Bootstrap4);  
-▪ Web Scraping, Regex, Selenium, Scrapy, BeautifulSoup, Requests;  
-▪ SQL (SQLite, SQLAlchemy, MySQL/MariaDB, PostgreSQL, MS SQL Server), Databases (Airtable);  
-▪ Data Science (Machine Learning, scikit-learn, PySpark, NLP, SpaCy);  
-▪ Data Analytics (Numpy, Pandas, Power BI, Jupyter Notebook);  
-▪ Data Visualization with Matplotlib, Seaborn, Plotly;  
-▪ JSON, XML, Git, GitHub, Jira, etc.  
-▪ Heroku, Docker, Conda, VirtualBox, VMware, Linux.
+▪ Python;
+▪ Frameworks – Django, Flask; Front-end Development (HTML, CSS), Web Design (Wordpress, Bootstrap4);
+▪ Web Scraping, Selenium, Scrapy, BeautifulSoup, Regex;
+▪ Data Science (NLP, SpaCy, Machine Learning, scikit-learn); Data Analytics (Numpy, Pandas, Jupyter Notebook, Power BI); Data Visualization with Matplotlib, Seaborn, Plotly;
+▪ SQL (SQLite, SQLAlchemy, MySQL, MariaDB, PostgreSQL), Databases (Airtable);
+▪ JSON, XML, Git, GitHub, Jira, etc.
+▪ DevOps: Heroku, Docker, Conda, VirtualBox, VMware, Linux.
 
 ### My Great Project 2019
 - [vue.gov.ua](https://vue.gov.ua) - The Great Ukrainian Encyclopedia 
