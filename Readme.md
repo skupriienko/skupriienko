@@ -13,13 +13,13 @@ Fully implemented and launched an educatioanal project with 100000+ month audien
 
 ### Tech Stack
 
-▪ Python;
-▪ Frameworks – Django, Flask; Front-end Development (HTML, CSS), Web Design (Wordpress, Bootstrap4);
-▪ Web Scraping, Selenium, Scrapy, BeautifulSoup, Regex;
-▪ Data Science (NLP, SpaCy, Machine Learning, scikit-learn); Data Analytics (Numpy, Pandas, Jupyter Notebook, Power BI); Data Visualization with Matplotlib, Seaborn, Plotly;
-▪ SQL (SQLite, SQLAlchemy, MySQL, MariaDB, PostgreSQL), Databases (Airtable);
-▪ JSON, XML, Git, GitHub, Jira, etc.
-▪ DevOps: Heroku, Docker, Conda, VirtualBox, VMware, Linux.
+- Python;
+- Frameworks – Django, Flask; Front-end Development (HTML, CSS), Web Design (Wordpress, Bootstrap4);
+- Web Scraping, Selenium, Scrapy, BeautifulSoup, Regex;
+- Data Science (NLP, SpaCy, Machine Learning, scikit-learn); Data Analytics (Numpy, Pandas, Jupyter Notebook, Power BI); Data Visualization with Matplotlib, Seaborn, Plotly;
+- SQL (SQLite, SQLAlchemy, MySQL, MariaDB, PostgreSQL), Databases (Airtable);
+- JSON, XML, Git, GitHub, Jira, etc.
+- DevOps: Heroku, Docker, Conda, VirtualBox, VMware, Linux.
 
 ### My Great Project 2019
 - [vue.gov.ua](https://vue.gov.ua) - The Great Ukrainian Encyclopedia 
