@@ -22,7 +22,7 @@ Fully implemented and launched an educatioanal project with 100000+ month audien
 - DevOps: Heroku, Docker, Conda, VirtualBox, VMware, Linux.
 
 ### My Great Project 2019:
-- [vue.gov.ua](https://vue.gov.ua) - The Great Ukrainian Encyclopedia 
+- [vue.gov.ua](https://vue.gov.ua) - The Great Ukrainian Encyclopedia (100000+ month audience)
 
 ### My Projects 2020:
 - [Awesome-Python-Learning](https://github.com/skupriienko/Awesome-Python-Learning)
