@@ -21,21 +21,25 @@ Fully implemented and launched an educatioanal project with 100000+ month audien
 - JSON, XML, Git, GitHub, Jira, etc.
 - DevOps: Heroku, Docker, Conda, VirtualBox, VMware, Linux.
 
-### My Great Project 2019
+### My Great Project 2019:
 - [vue.gov.ua](https://vue.gov.ua) - The Great Ukrainian Encyclopedia 
 
-### My Projects 2020
+### My Projects 2020:
 - [Awesome-Python-Learning](https://github.com/skupriienko/Awesome-Python-Learning)
 - [Python-Cheatsheets](https://github.com/skupriienko/Python-Cheatsheets)
 - [Pyxtract](https://github.com/skupriienko/Pyxtract)
 - [Jobscraper](https://github.com/skupriienko/Jobscraper)
 - [Gmail-reader](https://github.com/skupriienko/Gmail-reader)
 - [PDF-and-URL-parser](https://github.com/skupriienko/PDF-and-URL-parser)
+- [Google-first-page-links](https://github.com/skupriienko/Google-first-page-links)
 - [Ukraine-Kyiv-Weather-Scraper](https://github.com/skupriienko/Ukraine-Kyiv-Weather-Scraper)
 - [Pause-Effect](https://github.com/skupriienko/Pause-Effect)
 - [Python-Tools](https://github.com/skupriienko/Python-Tools)
 - [Ukrainian-Stopwords](https://github.com/skupriienko/Ukrainian-Stopwords)
 - [Ukrainian-Sentiment-Analysis](https://github.com/skupriienko/Ukrainian-Sentiment-Analysis)
+
+### My Projects 2021:
+- ...
 
 ### Languages and Tools:
 
