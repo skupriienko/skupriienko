@@ -39,7 +39,9 @@ Fully implemented and launched an educatioanal project with 100000+ month audien
 - [Ukrainian-Sentiment-Analysis](https://github.com/skupriienko/Ukrainian-Sentiment-Analysis)
 
 ### My Projects 2021:
-- ...
+- [Datacamp-Python-Exercises](https://github.com/skupriienko/Datacamp-Python-Exercises)
+- [Python-gitignore](https://github.com/skupriienko/Python-gitignore)
+- [django_local_library](https://github.com/skupriienko/Python-gitignore)
 
 
 
