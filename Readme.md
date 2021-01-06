@@ -51,18 +51,14 @@ Fully implemented and launched an educatioanal project with 100000+ month audien
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skupriienko&show_icons=true" alt="skupriienko" /></p>
 
-
-### 2020 goals
-
-- 🔮 - Make Django and Flask sites
-- ⚡ - Master GitHub actions
-- 🦋 - Learn Python better 
-- 👯 - Collaborate with some other content creators
  
 ### 2021 goals 
 
 - 💎 - Practice Javascript language
 - 🥅 - Release a few Open Source libraries
+- 🔮 - Make Django and Flask sites
+- ⚡ - Master GitHub actions
+- 🦋 - Learn Python better 
 
 ### Blog
 
