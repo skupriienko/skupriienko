@@ -9,7 +9,7 @@ Mostly experienced in Back End development with Python (Django, Flask), data min
 My professional interests are quite broad and include software engineering, programming, data analitics, data science
  – to name just a few. I prefer a knowledge that will remain relevant over the years. 
  
-Fully implemented and launched an educatioanal project with 100000+ month audience.
+Fully implemented and launched an educatioanal project with 100000+ month audience. Instituted previously nonexistent project management guidelines within organization to improve ability to meet time lines, budgets and objectives.
 
 ### Tech Stack
 
