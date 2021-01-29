@@ -43,6 +43,7 @@ Fully implemented and launched an educatioanal project with 100000+ month audien
 - [Python-gitignore](https://github.com/skupriienko/Python-gitignore)
 - [django_local_library](https://github.com/skupriienko/django_local_library)
 - [Keyphrase_extractor](https://github.com/skupriienko/Keyphrase_extractor)
+- [Ukrainian-Stopwords](https://github.com/skupriienko/Ukrainian-Stopwords)
 
 
 
