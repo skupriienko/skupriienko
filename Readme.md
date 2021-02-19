@@ -57,11 +57,11 @@ Fully implemented and launched an educatioanal project with 100000+ month audien
  
 ### 2021 goals 
 
-- 💎 - Practice Javascript language
+- 💎 - Practice C language anb Bash
 - 🥅 - Release a few Open Source libraries
-- 🔮 - Make Django and Flask sites
+✔️ 🔮 - Make Django and Flask sites
 - ⚡ - Master GitHub actions
-- 🦋 - Learn Python better 
+- 🦋 - Learn Python better
 
 ### Blog
 
