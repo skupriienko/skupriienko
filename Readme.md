@@ -1,7 +1,35 @@
 <h1 align="center">Hi 👋, I'm Serhii Kupriienko</h1>
 <h3 align="center">A passionate Python Developer from Ukraine</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=skupriienko" alt="skupriienko" /> </p>
+
+
+<p align="center">
+    <a href="https://github.com/skupriienko" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@skupriienko-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/serhii-kupriienko" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
+    <a href="https://orcid.org/0000-0003-2886-409X" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/skupriienko?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
+    <a href="https://github.com/skupriienko?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
+    <a href="https://github.com/skupriienko?tab=repositories&language=c" target="_blank"><img alt="C" src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
+    <a href="https://github.com/skupriienko?tab=repositories&language=shell" target="_blank"><img alt="shell" src="https://img.shields.io/badge/-shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white"></a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/skupriienko?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
+    <a href="https://github.com/skupriienko" target="_blank"><img alt="alwinw" src="https://badges.pufler.dev/visits/skupriienko/skupriienko?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+    <a href="https://github.com/skupriienko/skupriienko" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/skupriienko/skupriienko?label=profile%20updated&style=flat-square"></a>
+</p>
+
+<details>
+<summary>Click for GitHub Stats</summary>
+<p align="center">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=skupriienko&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+    <br>
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skupriienko&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
+</p>
+</details>
 
 I’m a blogger doing web development since 2005.
 Mostly experienced in Back End development with Python (Django, Flask), data mining, web scraping and NLP.
@@ -60,11 +88,11 @@ Fully implemented and launched an educatioanal project with 100000+ month audien
 - [Conda-cheatsheet](https://github.com/skupriienko/Conda-cheatsheet)
 
 
-<br>
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skupriienko&layout=compact&hide=html" alt="skupriienko" /></p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skupriienko&show_icons=true" alt="skupriienko" /></p>
+### Tools:
+[![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
+[![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
+[![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Editor](https://img.shields.io/badge/Editor-PyCharm-blue?style=flat-square&logo=pycharm&logoColor=white)](https://www.jetbrains.com/ru-ru/pycharm/)
 
  
 ### 2021 goals 
@@ -86,3 +114,9 @@ Fully implemented and launched an educatioanal project with 100000+ month audien
 
 [kuprienko.info]: https://kuprienko.info
 [linkedin]: https://linkedin.com/in/serhii-kupriienko
+<br>
+
+
+![Metrics](https://metrics.lecoq.io/skupriienko?template=classic&repositories.forks=true&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FKiev)
+
+
