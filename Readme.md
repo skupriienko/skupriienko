@@ -57,7 +57,7 @@ Fully implemented and launched an educatioanal project with 100000+ month audien
 - [Keyphrase_extractor](https://github.com/skupriienko/Keyphrase_extractor)
 - [Ukrainian-Stopwords](https://github.com/skupriienko/Ukrainian-Stopwords)
 - [Medium-Python-Articles](https://github.com/skupriienko/Medium-Python-Articles)
-
+- [Conda-cheatsheet](https://github.com/skupriienko/Conda-cheatsheet)
 
 
 <br>
