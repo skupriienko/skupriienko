@@ -54,25 +54,35 @@ My professional interests are quite broad and include software engineering, prog
 
 ### Tech Stack
 
-- Python, Shell scripting, Bash, C language; 
+- 	Python, Rust;
 
-- Package Building, Package Management, Dependency solving (conda, conda-build, pip, setuptools, compilers gcc & clang) 
+- 	Bash Scripting, Batch Scripting;
+  
+-	Package Building, Package Management, Dependency solving (conda, conda-build, pip, setuptools);
 
-- Frameworks – FastAPI, Django, Flask; Front-end Development (HTML, CSS), Web Design (Wordpress, Bootstrap4); 
+- 	Build tools: compilers C/C++ (gcc, clang, MSVC), GNU Make, CMake, meson;
 
-- Web Scraping, Data mining (Regex, Selenium, Scrapy, BeautifulSoup, Requests);   
+- 	Problem Solving & Troubleshooting;
 
-- Data Science (NLP, SpaCy, Machine Learning, scikit-learn);  
+-	Back-end Web Frameworks – Python (FastAPI, rarely Django & Flask), Rust (Rocket);
 
-- Data Analytics (Pandas, Numpy, Jupyter Notebook); Data Visualization with Matplotlib, Seaborn, Plotly; 
+- 	Front-end Development (HTML, CSS), Web Design (Bootstrap5);
 
-- SQL (SQLite, SQLAlchemy, PostgreSQL), Databases (Airtable);
+-	Web Scraping, Data mining (BeautifulSoup4, Regex);
 
-- YAML, JSON, XML, Makefile, Git, GitHub, Jira, etc.  
+- 	Data Analytics (Pandas); Data Visualization with Matplotlib, Seaborn;
 
-- Cloud: AWS S3;
+-	Data Science (NLP, SpaCy, nltk);
 
-- CI/CD, DevOps: Docker, Docker Compose, Bitbucket Pipelines, Github Actions, Heroku, Concourse, Prefect, VirtualBox, VMware, Linux Shell;
+-	SQL (SQLite, PostgreSQL, SQLAlchemy), Databases (Airtable);
+
+-	YAML, Jinja2, JSON, XML, Makefile, Git, GitHub, Jira, etc.;
+
+- 	Cloud: AWS S3;
+
+-	CI/CD, DevOps: Docker, Docker Compose, Bitbucket Pipelines, Github Actions, Heroku, Concourse, Prefect, VirtualBox, VMware, Linux Shell;
+
+- 	OS: Linux, MacOS, Windows (incl. MSYS2, cygwin, WSL).
 
 ### 2022 goals 
 
