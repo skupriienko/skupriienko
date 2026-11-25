@@ -7,7 +7,7 @@
 With **5+ years** across Python, multi-platform package distribution, production Linux systems, I build reproducible build pipelines, resilient backend services, and hardened infrastructure across e-commerce, high-traffic web (**1M+ annual users**), ML/data, and security domains. Former History PhD turned Engineer—applying the same analytical rigor from deciphering historical manuscripts to untangling dependency graphs, binary ABI issues, and full-stack production bottlenecks.
 
 [![LinkedIn](https://img.shields.io/badge/in-LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/serhii-kupriienko/)
-[![Repositories](https://img.shields.io/badge/Public_Repos-77+-1e293b?style=flat-square&logo=github&logoColor=white)](https://github.com/skupriienko?tab=repositories)
+[![Repositories](https://img.shields.io/badge/Public_Repos-29+-1e293b?style=flat-square&logo=github&logoColor=white)](https://github.com/skupriienko?tab=repositories)
 
 ---
 
