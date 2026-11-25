@@ -24,10 +24,11 @@ With **5+ years** across Python, multi-platform package distribution, production
 
 | Project | Focus | Description |
 | :--- | :--- | :--- |
+| **[quipu](https://github.com/skupriienko/quipu)** | AI Data / Provenance | Zero-dependency `.quipu` serialization format with columnar checksums, T0–T3 taint tiers, SHA-256 seals, and MCP server |
+| **[qloom](https://github.com/skupriienko/qloom)** | AI Agents / State | Zero-dependency `.qloom` 6-plane agent state, Bernstein parallel DAG, and context-compaction dialect (`L4→L0`) with MCP server |
 | **[Conda-world-cheatsheet](https://github.com/skupriienko/Conda-world-cheatsheet)** | Packaging | Practical field guide to Conda environments, dependency resolution, and package builds |
 | **[Ukrainian-Stopwords](https://github.com/skupriienko/Ukrainian-Stopwords)** | NLP / Dataset | ~2,000 curated Ukrainian stop words widely used in text-processing pipelines |
 | **[Ukrainian-Sentiment-Analysis](https://github.com/skupriienko/Ukrainian-Sentiment-Analysis)** | NLP / Lexicon | Curated Ukrainian vocabulary and assets for sentiment analysis |
-| **[Pyxtract](https://github.com/skupriienko/Pyxtract)** | Data / ETL | Modular Python toolkit for extracting structured text from URLs and PDFs |
 
 ---
 
